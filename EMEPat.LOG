@@ -1,0 +1,914 @@
+
+ 27.03.2017  18:58:29 EMEPat: Начало работы в режиме тестирования
+ 27.03.2017  18:58:39 EMEPat: Тест запуска выполнен успешно
+ 27.03.2017  18:58:39 EMEPat: Окончание работы в режиме тестирования
+ 27.03.2017  18:58:39 EMEPat: Начало работы в режиме обновления
+ 27.03.2017  18:58:39 EMEPat: Ожидание выгрузки БД из памяти
+ 27.03.2017  18:58:40 EMEPat: БД выгрузилась из памяти самостоятельно
+ 27.03.2017  18:58:45 EMEPat: Копирование файлов:
+ 27.03.2017  18:58:45 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858
+ 27.03.2017  18:58:45 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64
+ 27.03.2017  18:58:45 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe
+ 27.03.2017  18:58:45 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\barcode.dll 	21.02.2017  12:07:56        94208 байт
+ 27.03.2017  18:58:45 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\barcode.dll                         	21.02.2017  12:07:58        94208 байт
+ 27.03.2017  18:58:45 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\bsdk.dll   	21.02.2017  11:02:22        53248 байт
+ 27.03.2017  18:58:45 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\bsdk.dll                            	21.02.2017  11:02:24        53248 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\bsdk50.dll 	21.02.2017  11:02:22       802816 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\bsdk50.dll                          	21.02.2017  11:02:24       802816 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\canal.dll  	21.02.2017  12:12:28       754688 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\canal.dll                           	21.02.2017  12:12:30       754688 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\config.dll 	21.02.2017  12:14:04        36864 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\config.dll                          	21.02.2017  12:14:06        36864 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\cximage.dll 	21.02.2017  11:03:40       402944 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\cximage.dll                         	21.02.2017  11:03:42       402944 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\db.dll     	21.02.2017  12:06:08      6228480 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\db.dll                              	21.02.2017  12:06:10      6228480 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\db.exe     	27.02.2017  09:40:16       263168 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\db.exe                              	27.02.2017  09:40:18       263168 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\dbassist.dll 	21.02.2017  12:11:06       631296 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\dbassist.dll                        	21.02.2017  12:11:08       631296 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\emeapi.dll 	21.02.2017  11:04:00        39936 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\emeapi.dll                          	21.02.2017  11:04:02        39936 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\emedos.dll 	21.02.2017  12:13:14       282112 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\emedos.dll                          	21.02.2017  12:13:16       282112 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\EMEPat.exe 	21.02.2017  11:15:22       209920 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\EMEPat.exe                          	21.02.2017  11:15:24       209920 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\eximport.dll 	21.02.2017  12:12:44        37376 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\eximport.dll                        	21.02.2017  12:12:46        37376 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\FlashPlayerControl.dll 	21.02.2017  11:02:22       229376 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\FlashPlayerControl.dll              	21.02.2017  11:02:24       229376 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\hook.dll   	21.02.2017  11:04:04        52224 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\hook.dll                            	21.02.2017  11:04:06        52224 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\http.dll   	21.02.2017  12:11:50      2257920 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\http.dll                            	21.02.2017  12:11:52      2257920 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\libdmtx64.dll 	21.02.2017  11:02:18        96256 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\libdmtx64.dll                       	21.02.2017  11:02:20        96256 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\libeay32.dll 	21.02.2017  11:02:22      2083840 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\libeay32.dll                        	21.02.2017  11:02:24      2083840 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\libgsasl64.dll 	21.02.2017  11:02:18       640745 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\libgsasl64.dll                      	21.02.2017  11:02:20       640745 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\MAD.DLL    	21.02.2017  12:13:26        21504 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\MAD.DLL                             	21.02.2017  12:13:28        21504 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\mfc100.dll 	21.02.2017  11:02:20      5574472 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\mfc100.dll                          	21.02.2017  11:02:22      5574472 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\msvcp100.dll 	21.02.2017  11:02:20       608080 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\msvcp100.dll                        	21.02.2017  11:02:22       608080 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\msvcr100.dll 	21.02.2017  11:02:20       829264 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\msvcr100.dll                        	21.02.2017  11:02:22       829264 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\qtcore4.dll 	21.02.2017  11:02:22      3038720 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\qtcore4.dll                         	21.02.2017  11:02:24      3038720 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\qtgui4.dll 	21.02.2017  11:02:22     10030080 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\qtgui4.dll                          	21.02.2017  11:02:24     10030080 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\qtnetwork4.dll 	21.02.2017  11:02:22      1223680 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\qtnetwork4.dll                      	21.02.2017  11:02:24      1223680 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\repedit.dll 	21.02.2017  12:13:48       572928 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\repedit.dll                         	21.02.2017  12:13:50       572928 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resedit.dll 	21.02.2017  12:12:56      1425408 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resedit.dll                         	21.02.2017  12:12:58      1425408 байт
+ 27.03.2017  18:58:46 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\1leftarrow.gif 	21.02.2017  11:02:16         1065 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\1leftarrow.gif             	21.02.2017  11:02:18         1065 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\1leftarrow.png 	21.02.2017  11:02:16          832 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\1leftarrow.png             	21.02.2017  11:02:18          832 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\1MX600.RUS 	21.02.2017  11:02:18          786 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\1MX600.RUS                 	21.02.2017  11:02:20          786 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\1rightarrow.png 	21.02.2017  11:02:16          807 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\1rightarrow.png            	21.02.2017  11:02:18          807 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\2leftarrow.png 	21.02.2017  11:02:16         1143 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\2leftarrow.png             	21.02.2017  11:02:18         1143 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\2rightarrow.png 	21.02.2017  11:02:16         1084 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\2rightarrow.png            	21.02.2017  11:02:18         1084 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\3LampsL.gif 	21.02.2017  11:02:16         3651 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\3LampsL.gif                	21.02.2017  11:02:18         3651 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\3LampsR.gif 	21.02.2017  11:02:16         3651 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\3LampsR.gif                	21.02.2017  11:02:18         3651 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\7za.exe 	21.02.2017  11:02:16       587776 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\7za.exe                    	21.02.2017  11:02:18       587776 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ABSPOS.PCD 	21.02.2017  11:02:18         1021 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ABSPOS.PCD                 	21.02.2017  11:02:20         1021 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ARIALC24.SFP 	21.02.2017  11:02:18        11512 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ARIALC24.SFP               	21.02.2017  11:02:20        11512 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ARIALC36.SFP 	21.02.2017  11:02:18        16121 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ARIALC36.SFP               	21.02.2017  11:02:20        16121 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ARIALC48.SFP 	21.02.2017  11:02:18        22921 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ARIALC48.SFP               	21.02.2017  11:02:20        22921 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\arr_bottom.png 	21.02.2017  11:02:16          160 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\arr_bottom.png             	21.02.2017  11:02:18          160 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\arr_left.png 	21.02.2017  11:02:16          163 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\arr_left.png               	21.02.2017  11:02:18          163 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\arr_right.png 	21.02.2017  11:02:16          214 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\arr_right.png              	21.02.2017  11:02:18          214 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\arr_top.png 	21.02.2017  11:02:16          158 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\arr_top.png                	21.02.2017  11:02:18          158 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ATTRIBUT.RUS 	21.02.2017  11:02:18         2452 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ATTRIBUT.RUS               	21.02.2017  11:02:20         2452 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\browser.js 	21.02.2017  11:02:16        13216 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\browser.js                 	21.02.2017  11:02:18        13216 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\browse_22_22.png 	21.02.2017  11:02:16          857 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\browse_22_22.png           	21.02.2017  11:02:18          857 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\browse_22_22_gray.png 	21.02.2017  11:02:16          837 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\browse_22_22_gray.png      	21.02.2017  11:02:18          837 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\BRWRESTR.RUS 	21.02.2017  11:02:16         2791 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\BRWRESTR.RUS               	21.02.2017  11:02:18         2791 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\BRWSPRNT.RUS 	21.02.2017  11:02:18          633 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\BRWSPRNT.RUS               	21.02.2017  11:02:20          633 байт
+ 27.03.2017  18:58:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\calendar.css 	21.02.2017  11:02:16         6265 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\calendar.css               	21.02.2017  11:02:18         6265 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\calendar.js 	21.02.2017  11:02:16        64884 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\calendar.js                	21.02.2017  11:02:18        64884 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\CALENDAR.RUS 	21.02.2017  11:02:16         2538 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\CALENDAR.RUS               	21.02.2017  11:02:18         2538 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\cancel_22_22.png 	21.02.2017  11:02:16          661 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\cancel_22_22.png           	21.02.2017  11:02:18          661 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\cancel_22_22_gray.png 	21.02.2017  11:02:16          672 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\cancel_22_22_gray.png      	21.02.2017  11:02:18          672 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\CCD_UTIL.RUS 	21.02.2017  11:02:18          605 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\CCD_UTIL.RUS               	21.02.2017  11:02:20          605 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\CHEQUE.RUS 	21.02.2017  11:02:18          861 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\CHEQUE.RUS                 	21.02.2017  11:02:20          861 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\COLORS.RUS 	21.02.2017  11:02:16         4967 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\COLORS.RUS                 	21.02.2017  11:02:18         4967 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\CONFIG.RUS 	21.02.2017  11:02:16         2876 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\CONFIG.RUS                 	21.02.2017  11:02:18         2876 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\courier.ttr 	21.02.2017  11:02:16         3520 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\courier.ttr                	21.02.2017  11:02:18         3520 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\cur1020w.ttr 	21.02.2017  11:02:16         4228 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\cur1020w.ttr               	21.02.2017  11:02:18         4228 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\cur10x20.ttr 	21.02.2017  11:02:16         4102 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\cur10x20.ttr               	21.02.2017  11:02:18         4102 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\db.rus 	21.02.2017  11:02:16        88146 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\db.rus                     	21.02.2017  11:02:18        88146 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\dbassist.rus 	21.02.2017  11:02:16        33241 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\dbassist.rus               	21.02.2017  11:02:18        33241 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\delete_22_22.png 	21.02.2017  11:02:16         1327 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\delete_22_22.png           	21.02.2017  11:02:18         1327 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\delete_22_22_gray.png 	21.02.2017  11:02:16         1147 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\delete_22_22_gray.png      	21.02.2017  11:02:18         1147 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\dlg_confirm_save.htm 	21.02.2017  11:02:16         1568 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\dlg_confirm_save.htm       	21.02.2017  11:02:18         1568 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\DMX300.RUS 	21.02.2017  11:02:16          910 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\DMX300.RUS                 	21.02.2017  11:02:18          910 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\DMX600.RUS 	21.02.2017  11:02:16          970 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\DMX600.RUS                 	21.02.2017  11:02:18          970 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\DMXBOOK.RUS 	21.02.2017  11:02:18          785 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\DMXBOOK.RUS                	21.02.2017  11:02:20          785 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\down_22_22.png 	21.02.2017  11:02:16         1273 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\down_22_22.png             	21.02.2017  11:02:18         1273 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\down_22_22_gray.png 	21.02.2017  11:02:16         1092 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\down_22_22_gray.png        	21.02.2017  11:02:18         1092 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\edit.png 	21.02.2017  11:02:16         1076 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\edit.png                   	21.02.2017  11:02:18         1076 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\editdelete.png 	21.02.2017  11:02:16          951 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\editdelete.png             	21.02.2017  11:02:18          951 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\edittools.js 	21.02.2017  11:02:16        21920 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\edittools.js               	21.02.2017  11:02:18        21920 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\EDTMOUSE.RUS 	21.02.2017  11:02:18         3525 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\EDTMOUSE.RUS               	21.02.2017  11:02:20         3525 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\eme.jpg 	21.02.2017  11:02:16         9113 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\eme.jpg                    	21.02.2017  11:02:18         9113 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\emedos.rus 	21.02.2017  11:02:16         2511 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\emedos.rus                 	21.02.2017  11:02:18         2511 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\emeform.js 	21.02.2017  11:02:16        40234 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\emeform.js                 	21.02.2017  11:02:18        40234 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\EME_EDIT.RUS 	21.02.2017  11:02:18            2 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\EME_EDIT.RUS               	21.02.2017  11:02:20            2 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\eme_wms.jpg 	21.02.2017  11:02:16        15492 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\eme_wms.jpg                	21.02.2017  11:02:18        15492 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\EPSON.PCD 	21.02.2017  11:02:16         3219 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\EPSON.PCD                  	21.02.2017  11:02:18         3219 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\eraser.png 	21.02.2017  11:02:16         1226 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\eraser.png                 	21.02.2017  11:02:18         1226 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ETABLE.RUS 	21.02.2017  11:02:18         7636 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ETABLE.RUS                 	21.02.2017  11:02:20         7636 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\eximport.rus 	21.02.2017  11:02:16         9141 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\eximport.rus               	21.02.2017  11:02:18         9141 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\expand.ani 	21.02.2017  11:02:16        10190 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\expand.ani                 	21.02.2017  11:02:18        10190 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\EXPDLG.RUS 	21.02.2017  11:02:18            1 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\EXPDLG.RUS                 	21.02.2017  11:02:20            1 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\EXPIMP.RUS 	21.02.2017  11:02:18          498 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\EXPIMP.RUS                 	21.02.2017  11:02:20          498 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\filenew.png 	21.02.2017  11:02:16          825 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\filenew.png                	21.02.2017  11:02:18          825 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\first_22_22.png 	21.02.2017  11:02:16         1221 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\first_22_22.png            	21.02.2017  11:02:18         1221 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\first_22_22_gray.png 	21.02.2017  11:02:16         1037 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\first_22_22_gray.png       	21.02.2017  11:02:18         1037 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\folder.gif 	21.02.2017  11:02:16          119 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\folder.gif                 	21.02.2017  11:02:18          119 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2blank.gif 	21.02.2017  11:02:16          135 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2blank.gif              	21.02.2017  11:02:18          135 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2doc.gif 	21.02.2017  11:02:16          199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2doc.gif                	21.02.2017  11:02:18          199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2folderclosed.gif 	21.02.2017  11:02:16          134 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2folderclosed.gif       	21.02.2017  11:02:18          134 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2folderopen.gif 	21.02.2017  11:02:16          139 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2folderopen.gif         	21.02.2017  11:02:18          139 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2lastnode.gif 	21.02.2017  11:02:16          142 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2lastnode.gif           	21.02.2017  11:02:18          142 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2mlastnode.gif 	21.02.2017  11:02:16          125 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2mlastnode.gif          	21.02.2017  11:02:18          125 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2mnode.gif 	21.02.2017  11:02:16          129 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2mnode.gif              	21.02.2017  11:02:18          129 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2node.gif 	21.02.2017  11:02:16          147 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2node.gif               	21.02.2017  11:02:18          147 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2plastnode.gif 	21.02.2017  11:02:16          130 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2plastnode.gif          	21.02.2017  11:02:18          130 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2pnode.gif 	21.02.2017  11:02:16          133 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2pnode.gif              	21.02.2017  11:02:18          133 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ftv2vertline.gif 	21.02.2017  11:02:16          140 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ftv2vertline.gif           	21.02.2017  11:02:18          140 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\GraphControl.js 	21.02.2017  11:02:16          966 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\GraphControl.js            	21.02.2017  11:02:18          966 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\HISTORY.RUS 	21.02.2017  11:02:18         1276 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\HISTORY.RUS                	21.02.2017  11:02:20         1276 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\InstallerHeader.bmp 	21.02.2017  11:02:16        71786 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\InstallerHeader.bmp        	21.02.2017  11:02:18        71786 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\InstallerWelcome.bmp 	21.02.2017  11:02:16       227574 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\InstallerWelcome.bmp       	21.02.2017  11:02:18       227574 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\LampOff.gif 	21.02.2017  11:02:16           85 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\LampOff.gif                	21.02.2017  11:02:18           85 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\LampOn.gif 	21.02.2017  11:02:16          153 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\LampOn.gif                 	21.02.2017  11:02:18          153 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\last_22_22.png 	21.02.2017  11:02:16         1212 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\last_22_22.png             	21.02.2017  11:02:18         1212 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\last_22_22_gray.png 	21.02.2017  11:02:16         1049 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\last_22_22_gray.png        	21.02.2017  11:02:18         1049 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\list.png 	21.02.2017  11:02:16         1066 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\list.png                   	21.02.2017  11:02:18         1066 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\maximize.gif 	21.02.2017  11:02:16         1301 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\maximize.gif               	21.02.2017  11:02:18         1301 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MENUMAIN.RU 	21.02.2017  11:02:18         6786 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MENUMAIN.RU                	21.02.2017  11:02:20         6786 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MFED_#1.OVL 	21.02.2017  11:02:18        10373 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MFED_#1.OVL                	21.02.2017  11:02:20        10373 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MicroClk.png 	21.02.2017  11:02:16          172 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MicroClk.png               	21.02.2017  11:02:18          172 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MicroOK.gif 	21.02.2017  11:02:16          874 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MicroOK.gif                	21.02.2017  11:02:18          874 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\minimize.gif 	21.02.2017  11:02:16         1280 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\minimize.gif               	21.02.2017  11:02:18         1280 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MOUSEWD.RUS 	21.02.2017  11:02:16         2037 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MOUSEWD.RUS                	21.02.2017  11:02:18         2037 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\MREPORT.RUS 	21.02.2017  11:02:18          192 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\MREPORT.RUS                	21.02.2017  11:02:20          192 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\nav_back.png 	21.02.2017  11:02:16         1205 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\nav_back.png               	21.02.2017  11:02:18         1205 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\nav_back_22_22.png 	21.02.2017  11:02:16         1205 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\nav_back_22_22.png         	21.02.2017  11:02:18         1205 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\nav_forward.png 	21.02.2017  11:02:16         1199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\nav_forward.png            	21.02.2017  11:02:18         1199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\nav_forward_22_22.png 	21.02.2017  11:02:16         1199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\nav_forward_22_22.png      	21.02.2017  11:02:18         1199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\new_22_22.png 	21.02.2017  11:02:16          789 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\new_22_22.png              	21.02.2017  11:02:18          789 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\new_22_22_gray.png 	21.02.2017  11:02:16          935 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\new_22_22_gray.png         	21.02.2017  11:02:18          935 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\next_22_22.png 	21.02.2017  11:02:16         1225 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\next_22_22.png             	21.02.2017  11:02:18         1225 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\next_22_22_gray.png 	21.02.2017  11:02:16         1058 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\next_22_22_gray.png        	21.02.2017  11:02:18         1058 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ok_22_22.png 	21.02.2017  11:02:16          605 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ok_22_22.png               	21.02.2017  11:02:18          605 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ok_22_22_gray.png 	21.02.2017  11:02:16          609 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ok_22_22_gray.png          	21.02.2017  11:02:18          609 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\OVL_TEST.RUS 	21.02.2017  11:02:18            2 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\OVL_TEST.RUS               	21.02.2017  11:02:20            2 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\prev_22_22.png 	21.02.2017  11:02:16         1229 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\prev_22_22.png             	21.02.2017  11:02:18         1229 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\prev_22_22_gray.png 	21.02.2017  11:02:16         1084 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\prev_22_22_gray.png        	21.02.2017  11:02:18         1084 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\recalculate_22_22.png 	21.02.2017  11:02:16         1334 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\recalculate_22_22.png      	21.02.2017  11:02:18         1334 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\recalculate_22_22_gray.png 	21.02.2017  11:02:16         1141 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\recalculate_22_22_gray.png 	21.02.2017  11:02:18         1141 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\Redirector(clipboard).htm 	21.02.2017  11:02:16          176 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\Redirector(clipboard).htm  	21.02.2017  11:02:18          176 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\Redirector.htm 	21.02.2017  11:02:16          178 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\Redirector.htm             	21.02.2017  11:02:18          178 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\reduce.ani 	21.02.2017  11:02:16         4018 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\reduce.ani                 	21.02.2017  11:02:18         4018 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\reload.png 	21.02.2017  11:02:16         1420 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\reload.png                 	21.02.2017  11:02:18         1420 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\remove.png 	21.02.2017  11:02:16         1297 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\remove.png                 	21.02.2017  11:02:18         1297 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\REPEDIT.RUS 	21.02.2017  11:02:18           50 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\REPEDIT.RUS                	21.02.2017  11:02:20           50 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\RESEDIT.RUS 	21.02.2017  11:02:18           51 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\RESEDIT.RUS                	21.02.2017  11:02:20           51 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\restore.gif 	21.02.2017  11:02:16         1306 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\restore.gif                	21.02.2017  11:02:18         1306 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootC.gif 	21.02.2017  11:02:16           51 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootC.gif                  	21.02.2017  11:02:18           51 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootL.gif 	21.02.2017  11:02:16           81 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootL.gif                  	21.02.2017  11:02:18           81 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootL2.gif 	21.02.2017  11:02:16           79 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootL2.gif                 	21.02.2017  11:02:18           79 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootRMin.gif 	21.02.2017  11:02:16          529 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootRMin.gif               	21.02.2017  11:02:18          529 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootRMin2.gif 	21.02.2017  11:02:16          531 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootRMin2.gif              	21.02.2017  11:02:18          531 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootRPlus.gif 	21.02.2017  11:02:16          529 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootRPlus.gif              	21.02.2017  11:02:18          529 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\rootRPlus2.gif 	21.02.2017  11:02:16          530 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\rootRPlus2.gif             	21.02.2017  11:02:18          530 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\save.png 	21.02.2017  11:02:16         1202 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\save.png                   	21.02.2017  11:02:18         1202 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\save_22_22.png 	21.02.2017  11:02:16         1186 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\save_22_22.png             	21.02.2017  11:02:18         1186 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\save_22_22_gray.png 	21.02.2017  11:02:16          996 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\save_22_22_gray.png        	21.02.2017  11:02:18          996 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\SCREEN.RUS 	21.02.2017  11:02:16          256 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\SCREEN.RUS                 	21.02.2017  11:02:18          256 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\ScriptX.cab 	21.02.2017  11:02:16       147466 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\ScriptX.cab                	21.02.2017  11:02:18       147466 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\searchnext_22_22.png 	21.02.2017  11:02:16         1142 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\searchnext_22_22.png       	21.02.2017  11:02:18         1142 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\searchnext_22_22_gray.png 	21.02.2017  11:02:16          990 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\searchnext_22_22_gray.png  	21.02.2017  11:02:18          990 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\search_22_22.png 	21.02.2017  11:02:16         1154 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\search_22_22.png           	21.02.2017  11:02:18         1154 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\search_22_22_gray.png 	21.02.2017  11:02:16         1022 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\search_22_22_gray.png      	21.02.2017  11:02:18         1022 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\SETTINGS.RUS 	21.02.2017  11:02:18         8440 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\SETTINGS.RUS               	21.02.2017  11:02:20         8440 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\smile.gif 	21.02.2017  11:02:16          699 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\smile.gif                  	21.02.2017  11:02:18          699 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\StepFirst.gif 	21.02.2017  11:02:16           70 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\StepFirst.gif              	21.02.2017  11:02:18           70 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\StepLast.gif 	21.02.2017  11:02:16           70 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\StepLast.gif               	21.02.2017  11:02:18           70 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\StepNext.gif 	21.02.2017  11:02:16           64 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\StepNext.gif               	21.02.2017  11:02:18           64 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\StepPrev.gif 	21.02.2017  11:02:16           65 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\StepPrev.gif               	21.02.2017  11:02:18           65 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\TABEL.RUS 	21.02.2017  11:02:18         7489 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\TABEL.RUS                  	21.02.2017  11:02:20         7489 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\table.js 	21.02.2017  11:02:16        41356 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\table.js                   	21.02.2017  11:02:18        41356 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\TITRFED.EXE 	21.02.2017  11:02:16       108186 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\TITRFED.EXE                	21.02.2017  11:02:18       108186 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\trempty.gif 	21.02.2017  11:02:16           57 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\trempty.gif                	21.02.2017  11:02:18           57 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\trfull.gif 	21.02.2017  11:02:16           57 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\trfull.gif                 	21.02.2017  11:02:18           57 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\TTX.RUS 	21.02.2017  11:02:16          843 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\TTX.RUS                    	21.02.2017  11:02:18          843 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\TTX950.RUS 	21.02.2017  11:02:16          815 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\TTX950.RUS                 	21.02.2017  11:02:18          815 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_bold.gif 	21.02.2017  11:02:16          152 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_bold.gif                 	21.02.2017  11:02:18          152 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_code.gif 	21.02.2017  11:02:16          154 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_code.gif                 	21.02.2017  11:02:18          154 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_email.gif 	21.02.2017  11:02:16          222 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_email.gif                	21.02.2017  11:02:18          222 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_flash.gif 	21.02.2017  11:02:16         1053 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_flash.gif                	21.02.2017  11:02:18         1053 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_glow.gif 	21.02.2017  11:02:16          928 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_glow.gif                 	21.02.2017  11:02:18          928 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_help.gif 	21.02.2017  11:02:16          206 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_help.gif                 	21.02.2017  11:02:18          206 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_horiz.gif 	21.02.2017  11:02:16          907 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_horiz.gif                	21.02.2017  11:02:18          907 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_image.gif 	21.02.2017  11:02:16          199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_image.gif                	21.02.2017  11:02:18          199 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_italics.gif 	21.02.2017  11:02:16          145 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_italics.gif              	21.02.2017  11:02:18          145 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_list.gif 	21.02.2017  11:02:16          151 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_list.gif                 	21.02.2017  11:02:18          151 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_listitem.gif 	21.02.2017  11:02:16          152 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_listitem.gif             	21.02.2017  11:02:18          152 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_marque.gif 	21.02.2017  11:02:16         2663 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_marque.gif               	21.02.2017  11:02:18         2663 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_preview.gif 	21.02.2017  11:02:16          305 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_preview.gif              	21.02.2017  11:02:18          305 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_quote.gif 	21.02.2017  11:02:16          168 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_quote.gif                	21.02.2017  11:02:18          168 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_shadow.gif 	21.02.2017  11:02:16          921 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_shadow.gif               	21.02.2017  11:02:18          921 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_smile.gif 	21.02.2017  11:02:16         1012 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_smile.gif                	21.02.2017  11:02:18         1012 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_strikethrough.gif 	21.02.2017  11:02:16          157 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_strikethrough.gif        	21.02.2017  11:02:18          157 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_underline.gif 	21.02.2017  11:02:16          159 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_underline.gif            	21.02.2017  11:02:18          159 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_url.gif 	21.02.2017  11:02:16          217 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_url.gif                  	21.02.2017  11:02:18          217 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\t_vert.gif 	21.02.2017  11:02:16          904 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\t_vert.gif                 	21.02.2017  11:02:18          904 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\unknown user.png 	21.02.2017  11:02:16         1918 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\unknown user.png           	21.02.2017  11:02:18         1918 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\unrar.exe 	21.02.2017  11:02:16        93184 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\unrar.exe                  	21.02.2017  11:02:18        93184 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\Up.png 	21.02.2017  11:02:16          167 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\Up.png                     	21.02.2017  11:02:18          167 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\update_22_22.png 	21.02.2017  11:02:16         1334 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\update_22_22.png           	21.02.2017  11:02:18         1334 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\update_22_22_gray.png 	21.02.2017  11:02:16         1119 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\update_22_22_gray.png      	21.02.2017  11:02:18         1119 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\up_22_22.png 	21.02.2017  11:02:16         1237 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\up_22_22.png               	21.02.2017  11:02:18         1237 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\up_22_22_gray.png 	21.02.2017  11:02:16         1065 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\up_22_22_gray.png          	21.02.2017  11:02:18         1065 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\USCONFIG.RUS 	21.02.2017  11:02:16         4975 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\USCONFIG.RUS               	21.02.2017  11:02:18         4975 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\USERS.RUS 	21.02.2017  11:02:18         1725 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\USERS.RUS                  	21.02.2017  11:02:20         1725 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\UTIL_SYS.RUS 	21.02.2017  11:02:18          184 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\UTIL_SYS.RUS               	21.02.2017  11:02:20          184 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\warning.gif 	21.02.2017  11:02:16         1466 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\warning.gif                	21.02.2017  11:02:18         1466 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\webtree.js 	21.02.2017  11:02:16        22339 байт
+ 27.03.2017  18:58:47 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\webtree.js                 	21.02.2017  11:02:18        22339 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\WinDiff.exe 	21.02.2017  11:02:16       184144 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\WinDiff.exe                	21.02.2017  11:02:18       184144 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\resource\XL.RUS 	21.02.2017  11:02:18          969 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\resource\XL.RUS                     	21.02.2017  11:02:20          969 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\screen.dll 	21.02.2017  12:09:34      6674944 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\screen.dll                          	21.02.2017  12:09:36      6674944 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\service.exe 	21.02.2017  12:14:02       140288 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\service.exe                         	21.02.2017  12:14:04       140288 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\settings.dll 	21.02.2017  12:12:42        61440 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\settings.dll                        	21.02.2017  12:12:44        61440 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\ssleay32.dll 	21.02.2017  11:02:22       386048 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\ssleay32.dll                        	21.02.2017  11:02:24       386048 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\tabel.dll  	21.02.2017  12:13:56        38912 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\tabel.dll                           	21.02.2017  12:13:58        38912 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\usconfig.dll 	21.02.2017  12:13:58        59392 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\usconfig.dll                        	21.02.2017  12:14:00        59392 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\xbase64.dll 	21.02.2017  11:08:20       186880 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\xbase64.dll                         	21.02.2017  11:08:22       186880 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\kernel.x64\exe\zlib.dll   	21.02.2017  11:03:10        69632 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\kernel.x64\exe\zlib.dll                            	21.02.2017  11:03:12        69632 байт
+ 27.03.2017  18:58:48 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858\metaproj
+ 27.03.2017  18:58:48 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe\MetC_Sys.dll 	21.02.2017  13:54:24     12388352 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_Sys.dll                          	27.03.2017  12:32:46     12388352 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe\MetC_WMS.dll 	21.02.2017  14:10:06     20556800 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	27.03.2017  15:44:00     20559872 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe\MetD_Sys.dll 	21.02.2017  13:57:38       519168 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetD_Sys.dll                          	27.03.2017  12:33:20       519168 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe\MetR_Sys.dll 	21.02.2017  13:58:22       242688 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetR_Sys.dll                          	27.03.2017  12:33:14       242688 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703271858\metaproj\exe\outerWMS.dll 	21.02.2017  14:21:30       836096 байт
+ 27.03.2017  18:58:48 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	27.03.2017  15:44:16       836096 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\barcode.dll   	21.02.2017  12:07:58        94208 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\bsdk.dll      	21.02.2017  11:02:24        53248 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\bsdk50.dll    	21.02.2017  11:02:24       802816 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\canal.dll     	21.02.2017  12:12:30       754688 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\config.dll    	21.02.2017  12:14:06        36864 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\cximage.dll   	21.02.2017  11:03:42       402944 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\db.dll        	21.02.2017  12:06:10      6228480 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\db.exe        	27.02.2017  09:40:18       263168 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\dbassist.dll  	21.02.2017  12:11:08       631296 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\emeapi.dll    	21.02.2017  11:04:02        39936 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\emedos.dll    	21.02.2017  12:13:16       282112 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\EMEPat.exe    	21.02.2017  11:15:24       209920 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\eximport.dll  	21.02.2017  12:12:46        37376 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\FlashPlayerControl.dll 	21.02.2017  11:02:24       229376 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\hook.dll      	21.02.2017  11:04:06        52224 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\http.dll      	21.02.2017  12:11:52      2257920 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\libdmtx64.dll 	21.02.2017  11:02:20        96256 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\libeay32.dll  	21.02.2017  11:02:24      2083840 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\libgsasl64.dll 	21.02.2017  11:02:20       640745 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\MAD.DLL       	21.02.2017  12:13:28        21504 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\mfc100.dll    	21.02.2017  11:02:22      5574472 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\msvcp100.dll  	21.02.2017  11:02:22       608080 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\msvcr100.dll  	21.02.2017  11:02:22       829264 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\qtcore4.dll   	21.02.2017  11:02:24      3038720 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\qtgui4.dll    	21.02.2017  11:02:24     10030080 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\qtnetwork4.dll 	21.02.2017  11:02:24      1223680 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\repedit.dll   	21.02.2017  12:13:50       572928 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resedit.dll   	21.02.2017  12:12:58      1425408 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\1leftarrow.gif 	21.02.2017  11:02:18         1065 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\1leftarrow.png 	21.02.2017  11:02:18          832 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\1MX600.RUS 	21.02.2017  11:02:20          786 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\1rightarrow.png 	21.02.2017  11:02:18          807 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\2leftarrow.png 	21.02.2017  11:02:18         1143 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\2rightarrow.png 	21.02.2017  11:02:18         1084 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\3LampsL.gif 	21.02.2017  11:02:18         3651 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\3LampsR.gif 	21.02.2017  11:02:18         3651 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\7za.exe 	21.02.2017  11:02:18       587776 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ABSPOS.PCD 	21.02.2017  11:02:20         1021 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ARIALC24.SFP 	21.02.2017  11:02:20        11512 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ARIALC36.SFP 	21.02.2017  11:02:20        16121 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ARIALC48.SFP 	21.02.2017  11:02:20        22921 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\arr_bottom.png 	21.02.2017  11:02:18          160 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\arr_left.png 	21.02.2017  11:02:18          163 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\arr_right.png 	21.02.2017  11:02:18          214 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\arr_top.png 	21.02.2017  11:02:18          158 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ATTRIBUT.RUS 	21.02.2017  11:02:20         2452 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\browser.js 	21.02.2017  11:02:18        13216 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\browse_22_22.png 	21.02.2017  11:02:18          857 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\browse_22_22_gray.png 	21.02.2017  11:02:18          837 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\BRWRESTR.RUS 	21.02.2017  11:02:18         2791 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\BRWSPRNT.RUS 	21.02.2017  11:02:20          633 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\calendar.css 	21.02.2017  11:02:18         6265 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\calendar.js 	21.02.2017  11:02:18        64884 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\CALENDAR.RUS 	21.02.2017  11:02:18         2538 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\cancel_22_22.png 	21.02.2017  11:02:18          661 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\cancel_22_22_gray.png 	21.02.2017  11:02:18          672 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\CCD_UTIL.RUS 	21.02.2017  11:02:20          605 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\CHEQUE.RUS 	21.02.2017  11:02:20          861 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\COLORS.RUS 	21.02.2017  11:02:18         4967 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\CONFIG.RUS 	21.02.2017  11:02:18         2876 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\courier.ttr 	21.02.2017  11:02:18         3520 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\cur1020w.ttr 	21.02.2017  11:02:18         4228 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\cur10x20.ttr 	21.02.2017  11:02:18         4102 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\db.rus 	21.02.2017  11:02:18        88146 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\dbassist.rus 	21.02.2017  11:02:18        33241 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\delete_22_22.png 	21.02.2017  11:02:18         1327 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\delete_22_22_gray.png 	21.02.2017  11:02:18         1147 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\dlg_confirm_save.htm 	21.02.2017  11:02:18         1568 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\DMX300.RUS 	21.02.2017  11:02:18          910 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\DMX600.RUS 	21.02.2017  11:02:18          970 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\DMXBOOK.RUS 	21.02.2017  11:02:20          785 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\down_22_22.png 	21.02.2017  11:02:18         1273 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\down_22_22_gray.png 	21.02.2017  11:02:18         1092 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\edit.png 	21.02.2017  11:02:18         1076 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\editdelete.png 	21.02.2017  11:02:18          951 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\edittools.js 	21.02.2017  11:02:18        21920 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\EDTMOUSE.RUS 	21.02.2017  11:02:20         3525 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\eme.jpg 	21.02.2017  11:02:18         9113 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\emedos.rus 	21.02.2017  11:02:18         2511 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\emeform.js 	21.02.2017  11:02:18        40234 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\EME_EDIT.RUS 	21.02.2017  11:02:20            2 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\eme_wms.jpg 	21.02.2017  11:02:18        15492 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\EPSON.PCD 	21.02.2017  11:02:18         3219 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\eraser.png 	21.02.2017  11:02:18         1226 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ETABLE.RUS 	21.02.2017  11:02:20         7636 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\eximport.rus 	21.02.2017  11:02:18         9141 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\expand.ani 	21.02.2017  11:02:18        10190 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\EXPDLG.RUS 	21.02.2017  11:02:20            1 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\EXPIMP.RUS 	21.02.2017  11:02:20          498 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\filenew.png 	21.02.2017  11:02:18          825 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\first_22_22.png 	21.02.2017  11:02:18         1221 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\first_22_22_gray.png 	21.02.2017  11:02:18         1037 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\folder.gif 	21.02.2017  11:02:18          119 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2blank.gif 	21.02.2017  11:02:18          135 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2doc.gif 	21.02.2017  11:02:18          199 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2folderclosed.gif 	21.02.2017  11:02:18          134 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2folderopen.gif 	21.02.2017  11:02:18          139 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2lastnode.gif 	21.02.2017  11:02:18          142 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2mlastnode.gif 	21.02.2017  11:02:18          125 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2mnode.gif 	21.02.2017  11:02:18          129 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2node.gif 	21.02.2017  11:02:18          147 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2plastnode.gif 	21.02.2017  11:02:18          130 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2pnode.gif 	21.02.2017  11:02:18          133 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ftv2vertline.gif 	21.02.2017  11:02:18          140 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\GraphControl.js 	21.02.2017  11:02:18          966 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\HISTORY.RUS 	21.02.2017  11:02:20         1276 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\InstallerHeader.bmp 	21.02.2017  11:02:18        71786 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\InstallerWelcome.bmp 	21.02.2017  11:02:18       227574 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\LampOff.gif 	21.02.2017  11:02:18           85 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\LampOn.gif 	21.02.2017  11:02:18          153 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\last_22_22.png 	21.02.2017  11:02:18         1212 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\last_22_22_gray.png 	21.02.2017  11:02:18         1049 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\list.png 	21.02.2017  11:02:18         1066 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\maximize.gif 	21.02.2017  11:02:18         1301 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MENUMAIN.RU 	21.02.2017  11:02:20         6786 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MFED_#1.OVL 	21.02.2017  11:02:20        10373 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MicroClk.png 	21.02.2017  11:02:18          172 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MicroOK.gif 	21.02.2017  11:02:18          874 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\minimize.gif 	21.02.2017  11:02:18         1280 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MOUSEWD.RUS 	21.02.2017  11:02:18         2037 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\MREPORT.RUS 	21.02.2017  11:02:20          192 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\nav_back.png 	21.02.2017  11:02:18         1205 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\nav_back_22_22.png 	21.02.2017  11:02:18         1205 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\nav_forward.png 	21.02.2017  11:02:18         1199 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\nav_forward_22_22.png 	21.02.2017  11:02:18         1199 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\new_22_22.png 	21.02.2017  11:02:18          789 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\new_22_22_gray.png 	21.02.2017  11:02:18          935 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\next_22_22.png 	21.02.2017  11:02:18         1225 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\next_22_22_gray.png 	21.02.2017  11:02:18         1058 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ok_22_22.png 	21.02.2017  11:02:18          605 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ok_22_22_gray.png 	21.02.2017  11:02:18          609 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\OVL_TEST.RUS 	21.02.2017  11:02:20            2 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\prev_22_22.png 	21.02.2017  11:02:18         1229 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\prev_22_22_gray.png 	21.02.2017  11:02:18         1084 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\recalculate_22_22.png 	21.02.2017  11:02:18         1334 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\recalculate_22_22_gray.png 	21.02.2017  11:02:18         1141 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\Redirector(clipboard).htm 	21.02.2017  11:02:18          176 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\Redirector.htm 	21.02.2017  11:02:18          178 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\reduce.ani 	21.02.2017  11:02:18         4018 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\reload.png 	21.02.2017  11:02:18         1420 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\remove.png 	21.02.2017  11:02:18         1297 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\REPEDIT.RUS 	21.02.2017  11:02:20           50 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\RESEDIT.RUS 	21.02.2017  11:02:20           51 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\restore.gif 	21.02.2017  11:02:18         1306 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootC.gif 	21.02.2017  11:02:18           51 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootL.gif 	21.02.2017  11:02:18           81 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootL2.gif 	21.02.2017  11:02:18           79 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootRMin.gif 	21.02.2017  11:02:18          529 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootRMin2.gif 	21.02.2017  11:02:18          531 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootRPlus.gif 	21.02.2017  11:02:18          529 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\rootRPlus2.gif 	21.02.2017  11:02:18          530 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\save.png 	21.02.2017  11:02:18         1202 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\save_22_22.png 	21.02.2017  11:02:18         1186 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\save_22_22_gray.png 	21.02.2017  11:02:18          996 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\SCREEN.RUS 	21.02.2017  11:02:18          256 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\ScriptX.cab 	21.02.2017  11:02:18       147466 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\searchnext_22_22.png 	21.02.2017  11:02:18         1142 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\searchnext_22_22_gray.png 	21.02.2017  11:02:18          990 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\search_22_22.png 	21.02.2017  11:02:18         1154 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\search_22_22_gray.png 	21.02.2017  11:02:18         1022 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\SETTINGS.RUS 	21.02.2017  11:02:20         8440 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\smile.gif 	21.02.2017  11:02:18          699 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\StepFirst.gif 	21.02.2017  11:02:18           70 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\StepLast.gif 	21.02.2017  11:02:18           70 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\StepNext.gif 	21.02.2017  11:02:18           64 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\StepPrev.gif 	21.02.2017  11:02:18           65 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\TABEL.RUS 	21.02.2017  11:02:20         7489 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\table.js 	21.02.2017  11:02:18        41356 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\TITRFED.EXE 	21.02.2017  11:02:18       108186 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\trempty.gif 	21.02.2017  11:02:18           57 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\trfull.gif 	21.02.2017  11:02:18           57 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\TTX.RUS 	21.02.2017  11:02:18          843 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\TTX950.RUS 	21.02.2017  11:02:18          815 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_bold.gif 	21.02.2017  11:02:18          152 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_code.gif 	21.02.2017  11:02:18          154 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_email.gif 	21.02.2017  11:02:18          222 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_flash.gif 	21.02.2017  11:02:18         1053 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_glow.gif 	21.02.2017  11:02:18          928 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_help.gif 	21.02.2017  11:02:18          206 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_horiz.gif 	21.02.2017  11:02:18          907 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_image.gif 	21.02.2017  11:02:18          199 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_italics.gif 	21.02.2017  11:02:18          145 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_list.gif 	21.02.2017  11:02:18          151 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_listitem.gif 	21.02.2017  11:02:18          152 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_marque.gif 	21.02.2017  11:02:18         2663 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_preview.gif 	21.02.2017  11:02:18          305 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_quote.gif 	21.02.2017  11:02:18          168 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_shadow.gif 	21.02.2017  11:02:18          921 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_smile.gif 	21.02.2017  11:02:18         1012 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_strikethrough.gif 	21.02.2017  11:02:18          157 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_underline.gif 	21.02.2017  11:02:18          159 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_url.gif 	21.02.2017  11:02:18          217 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\t_vert.gif 	21.02.2017  11:02:18          904 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\unknown user.png 	21.02.2017  11:02:18         1918 байт
+ 27.03.2017  18:58:48 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\unrar.exe 	21.02.2017  11:02:18        93184 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\Up.png 	21.02.2017  11:02:18          167 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\update_22_22.png 	21.02.2017  11:02:18         1334 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\update_22_22_gray.png 	21.02.2017  11:02:18         1119 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\up_22_22.png 	21.02.2017  11:02:18         1237 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\up_22_22_gray.png 	21.02.2017  11:02:18         1065 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\USCONFIG.RUS 	21.02.2017  11:02:18         4975 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\USERS.RUS 	21.02.2017  11:02:20         1725 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\UTIL_SYS.RUS 	21.02.2017  11:02:20          184 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\warning.gif 	21.02.2017  11:02:18         1466 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\webtree.js 	21.02.2017  11:02:18        22339 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\WinDiff.exe 	21.02.2017  11:02:18       184144 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource\XL.RUS 	21.02.2017  11:02:20          969 байт
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\resource     
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\screen.dll    	21.02.2017  12:09:36      6674944 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\service.exe   	21.02.2017  12:14:04       140288 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\settings.dll  	21.02.2017  12:12:44        61440 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\ssleay32.dll  	21.02.2017  11:02:24       386048 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\tabel.dll     	21.02.2017  12:13:58        38912 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\usconfig.dll  	21.02.2017  12:14:00        59392 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\xbase64.dll   	21.02.2017  11:08:22       186880 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe\zlib.dll      	21.02.2017  11:03:12        69632 байт
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858\kernel.x64\exe              
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858\kernel.x64                  
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\metaproj\exe\MetC_Sys.dll    	27.03.2017  12:32:46     12388352 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\metaproj\exe\MetC_WMS.dll    	27.03.2017  15:44:00     20559872 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\metaproj\exe\MetD_Sys.dll    	27.03.2017  12:33:20       519168 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\metaproj\exe\MetR_Sys.dll    	27.03.2017  12:33:14       242688 байт
+ 27.03.2017  18:58:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703271858\metaproj\exe\outerWMS.dll    	27.03.2017  15:44:16       836096 байт
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858\metaproj\exe                
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858\metaproj                    
+ 27.03.2017  18:58:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703271858                             
+ 27.03.2017  18:58:50 EMEPat: Копирование файлов завершено
+ 27.03.2017  18:58:50 EMEPat: Окончание работы в режиме обновления
+ 31.03.2017  11:35:28 EMEPat: Начало работы в режиме тестирования
+ 31.03.2017  11:35:38 EMEPat: Тест запуска выполнен успешно
+ 31.03.2017  11:35:38 EMEPat: Окончание работы в режиме тестирования
+ 31.03.2017  11:35:38 EMEPat: Начало работы в режиме обновления
+ 31.03.2017  11:35:38 EMEPat: Ожидание выгрузки БД из памяти
+ 31.03.2017  11:35:39 EMEPat: БД выгрузилась из памяти самостоятельно
+ 31.03.2017  11:35:43 EMEPat: Начало работы в режиме тестирования
+ 31.03.2017  11:35:44 EMEPat: Копирование файлов:
+ 31.03.2017  11:35:44 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703311135
+ 31.03.2017  11:35:44 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703311135\metaproj
+ 31.03.2017  11:35:44 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetC_Sys.dll 	27.03.2017  12:32:46     12388352 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_Sys.dll                          	30.03.2017  11:59:18     12403712 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetC_WMS.dll 	27.03.2017  15:44:00     20559872 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	30.03.2017  12:00:04     20559872 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetD_Sys.dll 	27.03.2017  12:33:20       519168 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetD_Sys.dll                          	30.03.2017  11:59:34       519168 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetR_Sys.dll 	27.03.2017  12:33:14       242688 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetR_Sys.dll                          	30.03.2017  11:59:24       242688 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\outerWMS.dll 	27.03.2017  15:44:16       836096 байт
+ 31.03.2017  11:35:44 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	30.03.2017  12:00:10       836096 байт
+ 31.03.2017  11:35:44 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703311135\metaproj\exe\MetC_Sys.dll    	30.03.2017  11:59:18     12403712 байт
+ 31.03.2017  11:35:44 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703311135\metaproj\exe\MetC_WMS.dll    	30.03.2017  12:00:04     20559872 байт
+ 31.03.2017  11:35:44 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703311135\metaproj\exe\MetD_Sys.dll    	30.03.2017  11:59:34       519168 байт
+ 31.03.2017  11:35:44 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703311135\metaproj\exe\MetR_Sys.dll    	30.03.2017  11:59:24       242688 байт
+ 31.03.2017  11:35:44 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1703311135\metaproj\exe\outerWMS.dll    	30.03.2017  12:00:10       836096 байт
+ 31.03.2017  11:35:44 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703311135\metaproj\exe                
+ 31.03.2017  11:35:44 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703311135\metaproj                    
+ 31.03.2017  11:35:44 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1703311135                             
+ 31.03.2017  11:35:46 EMEPat: Копирование файлов завершено
+ 31.03.2017  11:35:46 EMEPat: Окончание работы в режиме обновления
+ 31.03.2017  11:35:53 EMEPat: Тест запуска выполнен успешно
+ 31.03.2017  11:35:53 EMEPat: Окончание работы в режиме тестирования
+ 31.03.2017  11:35:53 EMEPat: Начало работы в режиме обновления
+ 31.03.2017  11:35:53 EMEPat: Ожидание выгрузки БД из памяти
+ 31.03.2017  11:35:54 EMEPat: БД выгрузилась из памяти самостоятельно
+ 31.03.2017  11:35:59 EMEPat: Копирование файлов:
+ 31.03.2017  11:35:59 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetC_Sys.dll 	27.03.2017  12:32:46     12388352 байт
+ 31.03.2017  11:35:59 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetC_WMS.dll 	27.03.2017  15:44:00     20559872 байт
+ 31.03.2017  11:35:59 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetD_Sys.dll 	27.03.2017  12:33:20       519168 байт
+ 31.03.2017  11:35:59 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\MetR_Sys.dll 	27.03.2017  12:33:14       242688 байт
+ 31.03.2017  11:35:59 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe\outerWMS.dll 	27.03.2017  15:44:16       836096 байт
+ 31.03.2017  11:35:59 EMEPat: Удален каталог d:\еме.wms\ws\Update\BackUp\1703311135\metaproj\exe             
+ 31.03.2017  11:35:59 EMEPat: Удален каталог d:\еме.wms\ws\Update\BackUp\1703311135\metaproj                 
+ 31.03.2017  11:35:59 EMEPat: Откат обновленных программных модулей!!!
+ 31.03.2017  11:36:11 EMEPat: Копирование файлов завершено
+ 31.03.2017  11:36:11 EMEPat: Окончание работы в режиме обновления
+ 11.04.2017  18:35:51 EMEPat: Начало работы в режиме тестирования
+ 11.04.2017  18:36:01 EMEPat: Тест запуска выполнен успешно
+ 11.04.2017  18:36:01 EMEPat: Окончание работы в режиме тестирования
+ 11.04.2017  18:36:01 EMEPat: Начало работы в режиме обновления
+ 11.04.2017  18:36:01 EMEPat: Ожидание выгрузки БД из памяти
+ 11.04.2017  18:36:02 EMEPat: БД выгрузилась из памяти самостоятельно
+ 11.04.2017  18:36:07 EMEPat: Копирование файлов:
+ 11.04.2017  18:36:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704111835
+ 11.04.2017  18:36:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704111835\metaproj
+ 11.04.2017  18:36:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704111835\metaproj\exe
+ 11.04.2017  18:36:07 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704111835\metaproj\exe\MetC_WMS.dll 	30.03.2017  12:00:04     20559872 байт
+ 11.04.2017  18:36:07 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	11.04.2017  15:22:16     20568064 байт
+ 11.04.2017  18:36:07 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704111835\metaproj\exe\outerWMS.dll 	30.03.2017  12:00:10       836096 байт
+ 11.04.2017  18:36:07 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	11.04.2017  15:22:30       836096 байт
+ 11.04.2017  18:36:07 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704111835\metaproj\exe\MetC_WMS.dll    	11.04.2017  15:22:16     20568064 байт
+ 11.04.2017  18:36:07 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704111835\metaproj\exe\outerWMS.dll    	11.04.2017  15:22:30       836096 байт
+ 11.04.2017  18:36:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704111835\metaproj\exe                
+ 11.04.2017  18:36:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704111835\metaproj                    
+ 11.04.2017  18:36:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704111835                             
+ 11.04.2017  18:36:10 EMEPat: Копирование файлов завершено
+ 11.04.2017  18:36:10 EMEPat: Окончание работы в режиме обновления
+ 13.04.2017  18:59:53 EMEPat: Начало работы в режиме тестирования
+ 13.04.2017  19:00:03 EMEPat: Тест запуска выполнен успешно
+ 13.04.2017  19:00:03 EMEPat: Окончание работы в режиме тестирования
+ 13.04.2017  19:00:03 EMEPat: Начало работы в режиме обновления
+ 13.04.2017  19:00:03 EMEPat: Ожидание выгрузки БД из памяти
+ 13.04.2017  19:00:04 EMEPat: БД выгрузилась из памяти самостоятельно
+ 13.04.2017  19:00:09 EMEPat: Копирование файлов:
+ 13.04.2017  19:00:09 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704131859
+ 13.04.2017  19:00:09 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704131859\metaproj
+ 13.04.2017  19:00:09 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704131859\metaproj\exe
+ 13.04.2017  19:00:09 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704131859\metaproj\exe\MetC_WMS.dll 	11.04.2017  15:22:16     20568064 байт
+ 13.04.2017  19:00:09 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	13.04.2017  15:48:00     20568576 байт
+ 13.04.2017  19:00:09 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704131859\metaproj\exe\outerWMS.dll 	11.04.2017  15:22:30       836096 байт
+ 13.04.2017  19:00:09 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	13.04.2017  15:48:08       836096 байт
+ 13.04.2017  19:00:09 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704131859\metaproj\exe\MetC_WMS.dll    	13.04.2017  15:48:00     20568576 байт
+ 13.04.2017  19:00:09 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704131859\metaproj\exe\outerWMS.dll    	13.04.2017  15:48:08       836096 байт
+ 13.04.2017  19:00:09 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704131859\metaproj\exe                
+ 13.04.2017  19:00:09 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704131859\metaproj                    
+ 13.04.2017  19:00:09 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704131859                             
+ 13.04.2017  19:00:10 EMEPat: Копирование файлов завершено
+ 13.04.2017  19:00:10 EMEPat: Окончание работы в режиме обновления
+ 14.04.2017  13:49:40 EMEPat: Начало работы в режиме тестирования
+ 14.04.2017  13:49:50 EMEPat: Тест запуска выполнен успешно
+ 14.04.2017  13:49:50 EMEPat: Окончание работы в режиме тестирования
+ 14.04.2017  13:49:50 EMEPat: Начало работы в режиме обновления
+ 14.04.2017  13:49:50 EMEPat: Ожидание выгрузки БД из памяти
+ 14.04.2017  13:49:51 EMEPat: БД выгрузилась из памяти самостоятельно
+ 14.04.2017  13:49:56 EMEPat: Начало работы в режиме тестирования
+ 14.04.2017  13:49:56 EMEPat: Копирование файлов:
+ 14.04.2017  13:49:56 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141349
+ 14.04.2017  13:49:56 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141349\metaproj
+ 14.04.2017  13:49:56 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe
+ 14.04.2017  13:49:56 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe\MetC_WMS.dll 	13.04.2017  15:48:00     20568576 байт
+ 14.04.2017  13:49:56 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	14.04.2017  07:36:08     20568576 байт
+ 14.04.2017  13:49:56 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe\outerWMS.dll 	13.04.2017  15:48:08       836096 байт
+ 14.04.2017  13:49:56 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	14.04.2017  07:36:26       836096 байт
+ 14.04.2017  13:49:56 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704141349\metaproj\exe\MetC_WMS.dll    	14.04.2017  07:36:08     20568576 байт
+ 14.04.2017  13:49:56 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704141349\metaproj\exe\outerWMS.dll    	14.04.2017  07:36:26       836096 байт
+ 14.04.2017  13:49:56 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141349\metaproj\exe                
+ 14.04.2017  13:49:56 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141349\metaproj                    
+ 14.04.2017  13:49:56 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141349                             
+ 14.04.2017  13:49:57 EMEPat: Копирование файлов завершено
+ 14.04.2017  13:49:57 EMEPat: Окончание работы в режиме обновления
+ 14.04.2017  13:50:06 EMEPat: Тест запуска выполнен успешно
+ 14.04.2017  13:50:06 EMEPat: Окончание работы в режиме тестирования
+ 14.04.2017  13:50:06 EMEPat: Начало работы в режиме обновления
+ 14.04.2017  13:50:06 EMEPat: Ожидание выгрузки БД из памяти
+ 14.04.2017  13:50:07 EMEPat: БД выгрузилась из памяти самостоятельно
+ 14.04.2017  13:50:12 EMEPat: Копирование файлов:
+ 14.04.2017  13:50:12 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe\MetC_WMS.dll 	13.04.2017  15:48:00     20568576 байт
+ 14.04.2017  13:50:12 EMEPat: Удален файл d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe\outerWMS.dll 	13.04.2017  15:48:08       836096 байт
+ 14.04.2017  13:50:12 EMEPat: Удален каталог d:\еме.wms\ws\Update\BackUp\1704141349\metaproj\exe             
+ 14.04.2017  13:50:12 EMEPat: Удален каталог d:\еме.wms\ws\Update\BackUp\1704141349\metaproj                 
+ 14.04.2017  13:50:12 EMEPat: Откат обновленных программных модулей!!!
+ 14.04.2017  13:50:15 EMEPat: Копирование файлов завершено
+ 14.04.2017  13:50:15 EMEPat: Окончание работы в режиме обновления
+ 14.04.2017  16:01:51 EMEPat: Начало работы в режиме тестирования
+ 14.04.2017  16:02:01 EMEPat: Тест запуска выполнен успешно
+ 14.04.2017  16:02:01 EMEPat: Окончание работы в режиме тестирования
+ 14.04.2017  16:02:01 EMEPat: Начало работы в режиме обновления
+ 14.04.2017  16:02:01 EMEPat: Ожидание выгрузки БД из памяти
+ 14.04.2017  16:02:02 EMEPat: БД выгрузилась из памяти самостоятельно
+ 14.04.2017  16:02:07 EMEPat: Копирование файлов:
+ 14.04.2017  16:02:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141601
+ 14.04.2017  16:02:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141601\metaproj
+ 14.04.2017  16:02:07 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141601\metaproj\exe
+ 14.04.2017  16:02:07 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704141601\metaproj\exe\MetC_WMS.dll 	14.04.2017  07:36:08     20568576 байт
+ 14.04.2017  16:02:07 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	14.04.2017  12:51:06     20572160 байт
+ 14.04.2017  16:02:07 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704141601\metaproj\exe\outerWMS.dll 	14.04.2017  07:36:26       836096 байт
+ 14.04.2017  16:02:07 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	14.04.2017  12:51:22       833536 байт
+ 14.04.2017  16:02:07 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704141601\metaproj\exe\MetC_WMS.dll    	14.04.2017  12:51:06     20572160 байт
+ 14.04.2017  16:02:07 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704141601\metaproj\exe\outerWMS.dll    	14.04.2017  12:51:22       833536 байт
+ 14.04.2017  16:02:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141601\metaproj\exe                
+ 14.04.2017  16:02:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141601\metaproj                    
+ 14.04.2017  16:02:07 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141601                             
+ 14.04.2017  16:02:09 EMEPat: Копирование файлов завершено
+ 14.04.2017  16:02:09 EMEPat: Окончание работы в режиме обновления
+ 14.04.2017  19:37:30 EMEPat: Начало работы в режиме тестирования
+ 14.04.2017  19:37:40 EMEPat: Тест запуска выполнен успешно
+ 14.04.2017  19:37:40 EMEPat: Окончание работы в режиме тестирования
+ 14.04.2017  19:37:40 EMEPat: Начало работы в режиме обновления
+ 14.04.2017  19:37:40 EMEPat: Ожидание выгрузки БД из памяти
+ 14.04.2017  19:37:41 EMEPat: БД выгрузилась из памяти самостоятельно
+ 14.04.2017  19:37:46 EMEPat: Копирование файлов:
+ 14.04.2017  19:37:46 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141937
+ 14.04.2017  19:37:46 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141937\metaproj
+ 14.04.2017  19:37:46 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704141937\metaproj\exe
+ 14.04.2017  19:37:46 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704141937\metaproj\exe\outerWMS.dll 	14.04.2017  12:51:22       833536 байт
+ 14.04.2017  19:37:46 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	14.04.2017  15:46:22       837632 байт
+ 14.04.2017  19:37:46 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704141937\metaproj\exe\outerWMS.dll    	14.04.2017  15:46:22       837632 байт
+ 14.04.2017  19:37:46 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141937\metaproj\exe                
+ 14.04.2017  19:37:46 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141937\metaproj                    
+ 14.04.2017  19:37:46 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704141937                             
+ 14.04.2017  19:37:47 EMEPat: Копирование файлов завершено
+ 14.04.2017  19:37:47 EMEPat: Окончание работы в режиме обновления
+ 18.04.2017  19:05:36 EMEPat: Начало работы в режиме тестирования
+ 18.04.2017  19:05:46 EMEPat: Тест запуска выполнен успешно
+ 18.04.2017  19:05:46 EMEPat: Окончание работы в режиме тестирования
+ 18.04.2017  19:05:46 EMEPat: Начало работы в режиме обновления
+ 18.04.2017  19:05:46 EMEPat: Ожидание выгрузки БД из памяти
+ 18.04.2017  19:05:47 EMEPat: БД выгрузилась из памяти самостоятельно
+ 18.04.2017  19:05:52 EMEPat: Копирование файлов:
+ 18.04.2017  19:05:52 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704181905
+ 18.04.2017  19:05:52 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704181905\metaproj
+ 18.04.2017  19:05:52 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe\MetC_Sys.dll 	30.03.2017  11:59:18     12403712 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_Sys.dll                          	18.04.2017  15:40:14     12403712 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe\MetC_WMS.dll 	14.04.2017  12:51:06     20572160 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	18.04.2017  15:44:34     20573696 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe\MetD_Sys.dll 	30.03.2017  11:59:34       519168 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetD_Sys.dll                          	18.04.2017  15:41:24       519168 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe\MetR_Sys.dll 	30.03.2017  11:59:24       242688 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetR_Sys.dll                          	18.04.2017  15:41:22       242688 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704181905\metaproj\exe\outerWMS.dll 	14.04.2017  15:46:22       837632 байт
+ 18.04.2017  19:05:52 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	18.04.2017  15:45:06       837632 байт
+ 18.04.2017  19:05:52 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704181905\metaproj\exe\MetC_Sys.dll    	18.04.2017  15:40:14     12403712 байт
+ 18.04.2017  19:05:52 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704181905\metaproj\exe\MetC_WMS.dll    	18.04.2017  15:44:34     20573696 байт
+ 18.04.2017  19:05:52 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704181905\metaproj\exe\MetD_Sys.dll    	18.04.2017  15:41:24       519168 байт
+ 18.04.2017  19:05:52 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704181905\metaproj\exe\MetR_Sys.dll    	18.04.2017  15:41:22       242688 байт
+ 18.04.2017  19:05:52 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704181905\metaproj\exe\outerWMS.dll    	18.04.2017  15:45:06       837632 байт
+ 18.04.2017  19:05:52 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704181905\metaproj\exe                
+ 18.04.2017  19:05:52 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704181905\metaproj                    
+ 18.04.2017  19:05:52 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704181905                             
+ 18.04.2017  19:05:54 EMEPat: Копирование файлов завершено
+ 18.04.2017  19:05:54 EMEPat: Окончание работы в режиме обновления
+ 21.04.2017  19:25:33 EMEPat: Начало работы в режиме тестирования
+ 21.04.2017  19:25:43 EMEPat: Тест запуска выполнен успешно
+ 21.04.2017  19:25:43 EMEPat: Окончание работы в режиме тестирования
+ 21.04.2017  19:25:43 EMEPat: Начало работы в режиме обновления
+ 21.04.2017  19:25:43 EMEPat: Ожидание выгрузки БД из памяти
+ 21.04.2017  19:25:44 EMEPat: БД выгрузилась из памяти самостоятельно
+ 21.04.2017  19:25:49 EMEPat: Копирование файлов:
+ 21.04.2017  19:25:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704211925
+ 21.04.2017  19:25:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704211925\metaproj
+ 21.04.2017  19:25:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704211925\metaproj\exe
+ 21.04.2017  19:25:49 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704211925\metaproj\exe\MetC_WMS.dll 	18.04.2017  15:44:34     20573696 байт
+ 21.04.2017  19:25:49 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\MetC_WMS.dll                          	21.04.2017  16:13:56     20573696 байт
+ 21.04.2017  19:25:49 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704211925\metaproj\exe\outerWMS.dll 	18.04.2017  15:45:06       837632 байт
+ 21.04.2017  19:25:49 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	21.04.2017  16:14:08       837632 байт
+ 21.04.2017  19:25:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704211925\metaproj\exe\MetC_WMS.dll    	21.04.2017  16:13:56     20573696 байт
+ 21.04.2017  19:25:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704211925\metaproj\exe\outerWMS.dll    	21.04.2017  16:14:08       837632 байт
+ 21.04.2017  19:25:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704211925\metaproj\exe                
+ 21.04.2017  19:25:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704211925\metaproj                    
+ 21.04.2017  19:25:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704211925                             
+ 21.04.2017  19:25:50 EMEPat: Копирование файлов завершено
+ 21.04.2017  19:25:50 EMEPat: Окончание работы в режиме обновления
+ 25.04.2017  17:13:33 EMEPat: Начало работы в режиме тестирования
+ 25.04.2017  17:13:43 EMEPat: Тест запуска выполнен успешно
+ 25.04.2017  17:13:43 EMEPat: Окончание работы в режиме тестирования
+ 25.04.2017  17:13:43 EMEPat: Начало работы в режиме обновления
+ 25.04.2017  17:13:43 EMEPat: Ожидание выгрузки БД из памяти
+ 25.04.2017  17:13:44 EMEPat: БД выгрузилась из памяти самостоятельно
+ 25.04.2017  17:13:49 EMEPat: Копирование файлов:
+ 25.04.2017  17:13:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704251713
+ 25.04.2017  17:13:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704251713\metaproj
+ 25.04.2017  17:13:49 EMEPat: Создан каталог d:\еме.wms\ws\Update\BackUp\1704251713\metaproj\exe
+ 25.04.2017  17:13:49 EMEPat: Скопирован файл d:\еме.wms\ws\Update\BackUp\1704251713\metaproj\exe\outerWMS.dll 	21.04.2017  16:14:08       837632 байт
+ 25.04.2017  17:13:49 EMEPat: Скопирован файл d:\еме.wms\ws\metaproj\exe\outerWMS.dll                          	25.04.2017  13:52:26       856576 байт
+ 25.04.2017  17:13:49 EMEPat: Удален файл d:\еме.wms\ws\Update\New\1704251713\metaproj\exe\outerWMS.dll    	25.04.2017  13:52:26       856576 байт
+ 25.04.2017  17:13:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704251713\metaproj\exe                
+ 25.04.2017  17:13:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704251713\metaproj                    
+ 25.04.2017  17:13:49 EMEPat: Удален каталог d:\еме.wms\ws\Update\New\1704251713                             
+ 25.04.2017  17:13:53 EMEPat: Копирование файлов завершено
+ 25.04.2017  17:13:53 EMEPat: Окончание работы в режиме обновления
